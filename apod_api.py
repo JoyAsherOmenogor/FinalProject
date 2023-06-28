@@ -17,6 +17,10 @@ def get_apod_info(apod_date):
         dict: Dictionary of APOD info, if successful. None if unsuccessful
     """
     # TODO: Complete the function body
+    
+
+
+
     # Hint: The APOD API uses query string parameters: https://requests.readthedocs.io/en/latest/user/quickstart/#passing-parameters-in-urls
     # Hint: Set the 'thumbs' parameter to True so the info returned for video APODs will include URL of the video thumbnail image 
     return
